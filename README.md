@@ -1,1 +1,1 @@
-## at this repo we can make a langing page for the organization
+## at this repo we can make a landing page for the organization
